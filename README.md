@@ -1,4 +1,5 @@
-Задача 2 вариант 9 
+Задача 2 вариант 9.
+
 ![image](https://github.com/pathetic01/for_png_files/blob/main/zad2var9.PNG)
 
 Формула для круга в треугольнике: (radius <= Math.sqrt(3) * side_b / 6).
