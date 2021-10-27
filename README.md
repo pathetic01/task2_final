@@ -1,5 +1,5 @@
 Задача 2 вариант 9 
-![image](https://github.com/pathetic01/task1_final/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1234.jpg)
+![image](https://github.com/pathetic01/for_png_files/blob/main/zad2var9.PNG)
 
 Формула для круга в треугольнике: (radius <= Math.sqrt(3) * side_b / 6).
 Где:
